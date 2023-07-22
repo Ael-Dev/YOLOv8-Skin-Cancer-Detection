@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Colab Notebooks/YOLOv8/data/train/images
+val: /content/drive/MyDrive/Colab Notebooks/YOLOv8/data/valid/images
+
+nc: 2
+names: [benign, malignant]
